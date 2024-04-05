@@ -1,0 +1,19 @@
+{
+    "name": "teapackage-ahsanmoustafa766",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/AhsanMoustafa766/AhsanMoustafa766.git"
+    },
+    "bugs": {
+        "url": "https://github.com/AhsanMoustafa766/AhsanMoustafa766/issues"
+    }
+}
